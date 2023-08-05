@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo2 del PrepCourse de Henry
+Este proyecto es una prueba de como sincronizar un commit desde github com mi computadora
